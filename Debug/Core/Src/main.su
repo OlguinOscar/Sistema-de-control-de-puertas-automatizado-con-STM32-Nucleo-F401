@@ -1,0 +1,7 @@
+../Core/Src/main.c:52:6:hacia_arriba	24	static
+../Core/Src/main.c:58:6:hacia_abajo	24	static
+../Core/Src/main.c:64:6:motor_apagado	24	static
+../Core/Src/main.c:70:6:movimiento	24	static
+../Core/Src/main.c:95:6:proceso	48	static
+../Core/Src/main.c:111:6:setup_pins	32	static
+../Core/Src/main.c:135:5:main	48	static
